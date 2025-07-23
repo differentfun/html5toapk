@@ -2,7 +2,7 @@
 
 Easily convert an HTML5 app into an Android APK using a simple graphical interface.
 
-## ✅ Requirements
+✅ Requirements
 - Node.js  
 - Cordova  
 - Java JDK  
@@ -14,6 +14,7 @@ On Debian-based systems, run the included script:
 $ ./toolset/requirements_debian.sh
 
 📄 License
+
 You are free to:
 - Use this tool and anything you create with it in any type of project
 - Share the tool freely
