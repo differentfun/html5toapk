@@ -11,7 +11,6 @@ Easily convert an HTML5 app into an Android APK using a simple graphical interfa
 
 On Debian-based systems, run the included script:
 
-```bash
 $ ./toolset/requirements_debian.sh
 
 📄 License
@@ -25,7 +24,6 @@ You are not allowed to:
 
 🚀 How to Use
 
-```bash
 $ chmod +x main.sh
 $ ./main.sh
 
