@@ -25,6 +25,7 @@ You are not allowed to:
 🚀 How to Use
 
 $ chmod +x main.sh
+
 $ ./main.sh
 
 !!! Extra Info !!!
