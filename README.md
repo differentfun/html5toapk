@@ -11,7 +11,7 @@ Easily convert an HTML5 app into an Android APK using a simple graphical interfa
 
 On Debian-based systems, run the included script:
 
-$ ./toolset/requirements_debian.sh
+$ `./toolset/requirements_debian.sh`
 
 📄 License
 
@@ -25,15 +25,15 @@ You are not allowed to:
 
 🚀 How to Use
 
-$ chmod +x main.sh
+$ `chmod +x main.sh`
 
-$ ./main.sh
+$ `./main.sh`
 
 !!! Extra Info !!!
 
 The Android SDK path is defined in setup_android_env.sh:
 
-export ANDROID_HOME="$HOME/.Android/Sdk"
+`export ANDROID_HOME="$HOME/.Android/Sdk"`
 
 If your SDK is located elsewhere, you’ll need to update that path accordingly.
 
