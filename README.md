@@ -27,7 +27,7 @@ You are not allowed to:
 
 $ `chmod +x main.sh`
 
-$ `./main.sh`
+$ `bash main.sh`
 
 !!! Extra Info !!!
 
@@ -38,3 +38,7 @@ The Android SDK path is defined in setup_android_env.sh:
 If your SDK is located elsewhere, you’ll need to update that path accordingly.
 
 The Cordova Android platform version used is 32.0.0, to ensure the best compatibility across a wide range of Android devices.
+
+You can have this tool symlinked in your user menu simply launching once: 
+
+$ `bash install_html5apk_menu_entry.sh`
