@@ -10,8 +10,9 @@ Easily convert an HTML5 app into an Android APK using a simple graphical interfa
 - ImageMagick  
 
 On Debian-based systems, run the included script:
-
-$ `./toolset/requirements_debian.sh`
+```bash
+./toolset/requirements_debian.sh
+```
 
 📄 License
 
@@ -25,9 +26,12 @@ You are not allowed to:
 
 🚀 How to Use
 
-$ `chmod +x main.sh`
-
-$ `bash main.sh`
+```bash
+chmod +x main.sh
+```
+```bash
+bash main.sh
+```
 
 !!! Extra Info !!!
 
@@ -41,4 +45,6 @@ The Cordova Android platform version used is 32.0.0, to ensure the best compatib
 
 You can have this tool symlinked in your user menu simply launching once: 
 
-$ `bash install_html5apk_menu_entry.sh`
+```bash
+bash install_html5apk_menu_entry.sh
+```
